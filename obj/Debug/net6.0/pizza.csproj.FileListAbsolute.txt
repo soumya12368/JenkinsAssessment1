@@ -1,0 +1,1481 @@
+C:\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\appsettings.Development.json
+C:\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\appsettings.json
+C:\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pizza.staticwebassets.runtime.json
+C:\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pizza.exe
+C:\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pizza.deps.json
+C:\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pizza.runtimeconfig.json
+C:\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pizza.dll
+C:\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pizza.pdb
+C:\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.csproj.AssemblyReference.cache
+C:\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.AssemblyInfoInputs.cache
+C:\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.AssemblyInfo.cs
+C:\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.csproj.CoreCompileInputs.cache
+C:\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.MvcApplicationPartsAssemblyInfo.cache
+C:\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.RazorAssemblyInfo.cache
+C:\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.RazorAssemblyInfo.cs
+C:\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\staticwebassets\msbuild.pizza.Microsoft.AspNetCore.StaticWebAssets.props
+C:\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\staticwebassets\msbuild.build.pizza.props
+C:\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.pizza.props
+C:\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.pizza.props
+C:\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\staticwebassets.pack.json
+C:\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\staticwebassets.build.json
+C:\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\staticwebassets.development.json
+C:\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\scopedcss\bundle\pizza.styles.css
+C:\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\scopedcss\projectbundle\pizza.bundle.scp.css
+C:\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.dll
+C:\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\refint\pizza.dll
+C:\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.pdb
+C:\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.genruntimeconfig.cache
+C:\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\ref\pizza.dll
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\appsettings.Development.json
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\appsettings.json
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pizza.staticwebassets.runtime.json
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pizza.exe
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pizza.deps.json
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pizza.runtimeconfig.json
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pizza.dll
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pizza.pdb
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.csproj.AssemblyReference.cache
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.AssemblyInfoInputs.cache
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.AssemblyInfo.cs
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.csproj.CoreCompileInputs.cache
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.MvcApplicationPartsAssemblyInfo.cache
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.RazorAssemblyInfo.cache
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.RazorAssemblyInfo.cs
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\staticwebassets\msbuild.pizza.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\staticwebassets\msbuild.build.pizza.props
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.pizza.props
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.pizza.props
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\staticwebassets.pack.json
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\staticwebassets.build.json
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\staticwebassets.development.json
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\scopedcss\bundle\pizza.styles.css
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\scopedcss\projectbundle\pizza.bundle.scp.css
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.dll
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\refint\pizza.dll
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.pdb
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.genruntimeconfig.cache
+D:\MYSQL\Phase-4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\ref\pizza.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\appsettings.Development.json
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\appsettings.json
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pizza.staticwebassets.runtime.json
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pizza.exe
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pizza.deps.json
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pizza.runtimeconfig.json
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pizza.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pizza.pdb
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.GeneratedMSBuildEditorConfig.editorconfig
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.AssemblyInfoInputs.cache
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.AssemblyInfo.cs
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.csproj.CoreCompileInputs.cache
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.MvcApplicationPartsAssemblyInfo.cache
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.RazorAssemblyInfo.cache
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.RazorAssemblyInfo.cs
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.sourcelink.json
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\staticwebassets.build.json
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\staticwebassets.development.json
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\staticwebassets\msbuild.pizza.Microsoft.AspNetCore.StaticWebAssets.props
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\staticwebassets\msbuild.build.pizza.props
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.pizza.props
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.pizza.props
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\staticwebassets.pack.json
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\scopedcss\bundle\pizza.styles.css
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\scopedcss\projectbundle\pizza.bundle.scp.css
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\refint\pizza.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.pdb
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.genruntimeconfig.cache
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\ref\pizza.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\mscorlib.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\netstandard.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Collections.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Console.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Core.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Data.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Linq.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Memory.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Security.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Text.Json.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Web.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Windows.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.csproj.AssemblyReference.cache
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.MvcApplicationPartsAssemblyInfo.cs
+D:\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.csproj.CopyComplete
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\appsettings.Development.json
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\appsettings.json
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pizza.staticwebassets.runtime.json
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pizza.exe
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pizza.deps.json
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pizza.runtimeconfig.json
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pizza.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pizza.pdb
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\mscorlib.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\netstandard.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Collections.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Console.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Core.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Data.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Linq.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Memory.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Security.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Text.Json.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Web.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Windows.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.csproj.AssemblyReference.cache
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.AssemblyInfoInputs.cache
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.AssemblyInfo.cs
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.csproj.CoreCompileInputs.cache
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.MvcApplicationPartsAssemblyInfo.cs
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.MvcApplicationPartsAssemblyInfo.cache
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.RazorAssemblyInfo.cache
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.RazorAssemblyInfo.cs
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.sourcelink.json
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\staticwebassets.build.json
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\staticwebassets.development.json
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\staticwebassets\msbuild.pizza.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\staticwebassets\msbuild.build.pizza.props
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.pizza.props
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.pizza.props
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\scopedcss\bundle\pizza.styles.css
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\scopedcss\projectbundle\pizza.bundle.scp.css
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.csproj.CopyComplete
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\refint\pizza.dll
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.pdb
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\pizza.genruntimeconfig.cache
+D:\Phase 4\Practise Projects\phase 4\PracticeProject\phase4 section4 project\pizza\pizza\obj\Debug\net6.0\ref\pizza.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\appsettings.Development.json
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\appsettings.json
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\pizza.staticwebassets.runtime.json
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\pizza.exe
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\pizza.deps.json
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\pizza.runtimeconfig.json
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\pizza.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\pizza.pdb
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\mscorlib.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\netstandard.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Collections.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Console.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Core.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Data.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.IO.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Linq.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Memory.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Net.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Security.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Text.Json.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Web.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Windows.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phase 4\Practise Projects\pizza\pizza\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Phase 4\Practise Projects\pizza\pizza\obj\Debug\net6.0\pizza.csproj.AssemblyReference.cache
+D:\Phase 4\Practise Projects\pizza\pizza\obj\Debug\net6.0\pizza.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phase 4\Practise Projects\pizza\pizza\obj\Debug\net6.0\pizza.AssemblyInfoInputs.cache
+D:\Phase 4\Practise Projects\pizza\pizza\obj\Debug\net6.0\pizza.AssemblyInfo.cs
+D:\Phase 4\Practise Projects\pizza\pizza\obj\Debug\net6.0\pizza.csproj.CoreCompileInputs.cache
+D:\Phase 4\Practise Projects\pizza\pizza\obj\Debug\net6.0\pizza.MvcApplicationPartsAssemblyInfo.cs
+D:\Phase 4\Practise Projects\pizza\pizza\obj\Debug\net6.0\pizza.MvcApplicationPartsAssemblyInfo.cache
+D:\Phase 4\Practise Projects\pizza\pizza\obj\Debug\net6.0\pizza.RazorAssemblyInfo.cache
+D:\Phase 4\Practise Projects\pizza\pizza\obj\Debug\net6.0\pizza.RazorAssemblyInfo.cs
+D:\Phase 4\Practise Projects\pizza\pizza\obj\Debug\net6.0\pizza.sourcelink.json
+D:\Phase 4\Practise Projects\pizza\pizza\obj\Debug\net6.0\staticwebassets.build.json
+D:\Phase 4\Practise Projects\pizza\pizza\obj\Debug\net6.0\staticwebassets.development.json
+D:\Phase 4\Practise Projects\pizza\pizza\obj\Debug\net6.0\staticwebassets\msbuild.pizza.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Phase 4\Practise Projects\pizza\pizza\obj\Debug\net6.0\staticwebassets\msbuild.build.pizza.props
+D:\Phase 4\Practise Projects\pizza\pizza\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.pizza.props
+D:\Phase 4\Practise Projects\pizza\pizza\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.pizza.props
+D:\Phase 4\Practise Projects\pizza\pizza\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Phase 4\Practise Projects\pizza\pizza\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Phase 4\Practise Projects\pizza\pizza\obj\Debug\net6.0\scopedcss\bundle\pizza.styles.css
+D:\Phase 4\Practise Projects\pizza\pizza\obj\Debug\net6.0\scopedcss\projectbundle\pizza.bundle.scp.css
+D:\Phase 4\Practise Projects\pizza\pizza\obj\Debug\net6.0\pizza.csproj.CopyComplete
+D:\Phase 4\Practise Projects\pizza\pizza\obj\Debug\net6.0\pizza.dll
+D:\Phase 4\Practise Projects\pizza\pizza\obj\Debug\net6.0\refint\pizza.dll
+D:\Phase 4\Practise Projects\pizza\pizza\obj\Debug\net6.0\pizza.pdb
+D:\Phase 4\Practise Projects\pizza\pizza\obj\Debug\net6.0\pizza.genruntimeconfig.cache
+D:\Phase 4\Practise Projects\pizza\pizza\obj\Debug\net6.0\ref\pizza.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\appsettings.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\pizza.staticwebassets.runtime.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\pizza.exe
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\pizza.deps.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\pizza.runtimeconfig.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\pizza.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\pizza.pdb
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\mscorlib.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\netstandard.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.AppContext.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Buffers.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Collections.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.ComponentModel.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Configuration.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Console.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Core.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Data.Common.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Data.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Drawing.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Globalization.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.IO.Compression.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.IO.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Linq.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Memory.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Net.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Http.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Mail.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Ping.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Requests.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Security.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Numerics.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.ObjectModel.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Claims.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Security.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Principal.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Text.Json.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Transactions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.ValueTuple.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Web.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Windows.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\refs\WindowsBase.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\obj\Debug\net6.0\pizza.csproj.AssemblyReference.cache
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\obj\Debug\net6.0\pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\obj\Debug\net6.0\pizza.AssemblyInfoInputs.cache
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\obj\Debug\net6.0\pizza.AssemblyInfo.cs
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\obj\Debug\net6.0\pizza.csproj.CoreCompileInputs.cache
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\obj\Debug\net6.0\pizza.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\obj\Debug\net6.0\pizza.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\obj\Debug\net6.0\pizza.RazorAssemblyInfo.cache
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\obj\Debug\net6.0\pizza.RazorAssemblyInfo.cs
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\obj\Debug\net6.0\staticwebassets\msbuild.pizza.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\obj\Debug\net6.0\staticwebassets\msbuild.build.pizza.props
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.pizza.props
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.pizza.props
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\obj\Debug\net6.0\scopedcss\bundle\pizza.styles.css
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\obj\Debug\net6.0\scopedcss\projectbundle\pizza.bundle.scp.css
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\obj\Debug\net6.0\pizza.csproj.CopyComplete
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\obj\Debug\net6.0\pizza.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\obj\Debug\net6.0\refint\pizza.dll
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\obj\Debug\net6.0\pizza.pdb
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\obj\Debug\net6.0\pizza.genruntimeconfig.cache
+C:\Users\soums\OneDrive\Desktop\Phase4\Project3\pizza\pizza\obj\Debug\net6.0\ref\pizza.dll
